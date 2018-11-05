@@ -1,0 +1,21 @@
+{
+    "name": "choate/yii2-coreseek",
+    "type": "library",
+    "description": "Yii2 Coreseek",
+    "require": {
+      "yiisoft/yii2-sphinx": "^2.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Choate",
+            "email": "choate.yao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "choate\\yii2\\coreseek\\": "src"
+        }
+    }
+}
